@@ -1,7 +1,7 @@
 Feature Branch Changes By GD
 Hotel Booking Management System!
 Developers
-
+God please help me.......!!!!!!!
 Mr. X.
 Miss. Y.
 Mrs. J.
@@ -45,4 +45,4 @@ Step 9: Add the modified files from Working directory to Satging Area git commit
 
     nothing to commit, working tree clean
 Step 10: Since Local Repository is not in sync with Remote Repository we need to push local changes to remote repository. GD@RevMINGW64 /c/scrap/hbms-capstone-group1 (main) $ git push Enumerating objects: 5, done. Counting objects: 100% (5/5), done. Delta compression using up to 8 threads Compressing objects: 100% (3/3), done. Writing objects: 100% (3/3), 371 bytes | 185.00 KiB/s, done. Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 To https://github.com/gangadharparde/hbms-capstone-group1.git 53757e1..87db35a main -> main Step 11: Refresh the Github page to see the modified changes in files.
-
+Thanks god!!!
